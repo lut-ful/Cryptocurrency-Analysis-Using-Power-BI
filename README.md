@@ -1,5 +1,4 @@
 # Cryptocurrency Analysis
-# Cryptocurrency Analysis
 
 **Project Report: Cryptocurrency Analysis Using Power BI**
 
@@ -84,10 +83,11 @@ This project report details the design and implementation of a cryptocurrency an
 This Power BI dashboard provides a comprehensive and interactive way to analyze cryptocurrency market data. By utilizing various visualizations and slicers, users can gain insights into market trends, price movements, and overall market performance across different time frames. The use of company colors ensures that the dashboard aligns with the corporate branding, providing a professional and cohesive look.
 
 **Screenshots (Placeholder)**
+![Page 1](https://github.com/lut-ful/Cryptocurrency-Analysis-Dashboard/assets/108027559/9a9c6c5d-f502-47c7-972e-9d963b6abc17)
 
-
+![Page 2](https://github.com/lut-ful/Cryptocurrency-Analysis-Dashboard/assets/108027559/298c150a-2f01-4791-bbbf-e52904587a1a)
 
 # Connect
-emaail
-linkedin (https://www.linkedin.com/in/mdlutfulkabir/)
+LinkedIn: [Md Lutful kabir](https://www.linkedin.com/in/mdlutfulkabir/)
+Email: [lutfulkabir1757@gmail.com](lutfulkabir1757@gmail.com)
 

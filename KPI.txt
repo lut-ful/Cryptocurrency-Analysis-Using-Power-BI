@@ -1,0 +1,20 @@
+Company Theme Yellow and Black
+Page 1 
+	-Market Cap by Date
+	-Cards
+		High
+		Low
+		Market Cap
+		Volume
+
+	-Slicer for Date Range and Currency
+	-slicer for year, month, quarterly, weekly, daily analysis
+
+Page 2 
+	-High & Low & Average by Date
+	-Open & Close by Date
+	-Slicer for Currency Dates should Apply from page 1
+	-Total Market Cap bar Chart for Top 5 Currencies 
+	-all time high and low cards
+
+

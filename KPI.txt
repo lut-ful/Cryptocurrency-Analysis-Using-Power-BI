@@ -1,3 +1,4 @@
+Name: Cryptocurrency Analysis Using Power BI
 Company Theme Yellow and Black
 Page 1 
 	-Market Cap by Date
@@ -17,4 +18,4 @@ Page 2
 	-Total Market Cap bar Chart for Top 5 Currencies 
 	-all time high and low cards
 
-
+github: https://github.com/lut-ful/Cryptocurrency-Analysis-Using-Power-BI

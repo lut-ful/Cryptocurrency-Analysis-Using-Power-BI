@@ -87,7 +87,9 @@ This Power BI dashboard provides a comprehensive and interactive way to analyze 
 
 ![Page 2](https://github.com/lut-ful/Cryptocurrency-Analysis-Dashboard/assets/108027559/298c150a-2f01-4791-bbbf-e52904587a1a)
 
-# Connect
-LinkedIn: [Md Lutful kabir](https://www.linkedin.com/in/mdlutfulkabir/)
-Email: [lutfulkabir1757@gmail.com](lutfulkabir1757@gmail.com)
+## 📫 Connect
+
+- Email: lutfulkabir1757@gmail.com
+- LinkedIn: [Md. Lutful Kabir](https://www.linkedin.com/in/mdlutfulkabir/)
+- Portfolio: [Md. Lutful Kabir](https://www.datascienceportfol.io/mdlutfulkabir)
 
